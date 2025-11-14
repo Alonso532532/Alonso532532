@@ -1,1 +1,1 @@
-# > Hola , soy alonso <
+<centre># > Hola , soy alonso <</centre>
